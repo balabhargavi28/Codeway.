@@ -1,2 +1,2 @@
-# Codeway.
-Codeway.
+# Codeway
+Codeway
